@@ -1,0 +1,6 @@
+stack utilizada: MongoDB, Express, Nodejs e Postman. Os pacotes adicionados foram: Npm, Bcrypt, Dotenv, Helmet, Mongoose, Morgan e Nodemon.
+A stack escolhida foi necessaria para que fosse possivel trabalhar no projeto de forma mais simples, como o Nodemon que permite que não seja preciso estar utilizando o comando de iniciar o tempo para rodar a aplicação, o Bcrypt foi utilizado para que fosse possivel colocar uma criptografia nas senhas, o banco de dados MongoDB foi utilizado pela facilidade de quando comparado aos outros, além disso com o Postman foi possivel fazer os testes para inserir os dados no banco, uma vez que apenas o Back-end tinha sido criado.
+
+Os arquivos devem ser abertos utilizando o Visual Studio Code, logo após deverá ser inicializado em um terminal de preferencia dentro da pasta em que estão os arquivos. Para iniciar deve ser utilizado o comando "Node index.js", desta forma o programa estará pronto para inserir os dados, sendo assim o Postman deve ser usado para fazer os CRUDS com os comandos que também estarão descritos aqui.
+
+Link do arquivo do postman: https://www.getpostman.com/collections/50aa9b04a860ce4f9ffd
